@@ -1,0 +1,62 @@
+/**
+ * @name NotAnotherRandomTheme(FNAF)
+ * @author NFLD99
+ * @version ersion auto updates
+ * @description Thank you for choosing NFLD Inc!
+ * @source https://github.com/NFLD99/Better-Discord
+ * @website https://nfld99.com/
+ * @patreon https://nfld99.com/patreon
+ * @authorLink https://discordhub.com/profile/483413721876529174
+ * @donate https://nfld99.com/paypal
+ * @authorId 483413721876529174
+ * @invite kWRYPrq
+*/
+
+  @import url(https://nfld99.github.io/Better-Discord/Source_Code/Master_Code.css);
+@import url(https://nfld99.github.io/Better-Discord/Source_Code/Addons/Use_Animations/Yes.css);
+@import url(https://nfld99.github.io/Better-Discord/Source_Code/Addons/Use_Fonts/No.css);
+@import url(https://nfld99.github.io/Better-Discord/Source_Code/Addons/Use_Popup/Yes.css);
+@import url(https://nfld99.github.io/Better-Discord/Source_Code/Addons/Use_Hide/Channels/No.css);
+@import url(https://nfld99.github.io/Better-Discord/Source_Code/Addons/Use_Hide/Chat_Title_Bar/No.css);
+@import url(https://nfld99.github.io/Better-Discord/Source_Code/Addons/Use_Hide/Invites/No.css);
+@import url(https://nfld99.github.io/Better-Discord/Source_Code/Addons/Use_Hide/Members/No.css);
+@import url(https://nfld99.github.io/Better-Discord/Source_Code/Addons/Use_Hide/Windows_Bar/No.css);
+@import url(https://nfld99.github.io/Better-Discord/Source_Code/Addons/Use_Hide/Offline/No.css);
+@import url(https://nfld99.github.io/Better-Discord/Source_Code/Addons/Use_Hide/Popout_Footer/No.css);
+@import url(https://nfld99.github.io/Better-Discord/Source_Code/Addons/Use_Transparency/Yes.css);
+@import url(https://nfld99.github.io/Better-Discord/Source_Code/Addons/Use_Chat_Bubbles/No.css);
+:root{
+	--Background-Colour: #000000;
+	--Chat-Input-Background: rgba(0, 0, 0, 0);
+	--Chat-Input-Colour: #fffb42;
+	--Secondary-Main-Colour: rgba(255, 251, 66, 0.5);
+	--Main-Colour: #c4c4c4;
+	--Notification-Colour: #9e6dc8;
+	--Popout-Main-Colour: #9e6dc8;
+	--Popout-Text-Shadow-Colour: #000000;
+	--Secondary-Background-Colour: rgba(0, 0, 0, 0);
+	--Scroller-Colour: #c4c4c4;
+	--Settings-Dock-Colour: #9e6dc8;
+	--Text-Shadow-Colour: #000000;
+	--Timestamp-Colour: rgba(158, 109, 200, 0.5);
+	--Unread-Message-1: #fffb42;
+	--Unread-Message-2: #d8d8d8;
+	--Chat-Background: Transparent;
+	--Settings-Background: url(https://imgur.com/sNp4E0d.png);
+	--Callout-Background: url(https://imgur.com/hQfxPDe.png);
+	--Title-Background: url(https://imgur.com/JvEsKEs.png);
+	--Popout-Background: url(https://imgur.com/wMaYlFO.png);
+	--Emote-Popout-Background: url(https://imgur.com/mLhKv7V.png);
+	--Theme-Variant: "Dark Wood";
+	--Chat-Font-Used: /**/;
+	--load1: "<Loading Everything>";
+	--load2: "<Loading 100%>Please Enjoy!";
+	--load3: "NotAnotherRandomTheme";
+	--File-Updated-2020-2-27: /**/;
+	--Guild-Columns: 3.5;
+	--ServerFolders-Guild-Columns: 3.5;
+	--Unread-Message-Speed: 2s;
+	--Chat-Font-Size: 13.5px;
+	--Chat-Avatar-Border-Radius: 5px;
+	--Background-Darkness: 0;
+}
